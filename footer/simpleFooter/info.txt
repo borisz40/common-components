@@ -1,0 +1,2 @@
+Egy egyszerû footer - HTML-váz
+Kezdetnek építsünk egy nagyon egyszerû footert, szerzõi jogi információval, és néhány navigációs linkkel
